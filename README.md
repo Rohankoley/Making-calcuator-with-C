@@ -1,7 +1,6 @@
 # Making-calcuator-with-C
 
 
-
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
